@@ -1,9 +1,7 @@
 # Coding-Quiz
 https://github.com/jibrildoqow/Coding-Quiz.git
-````````````
-https://stackoverflow.com/
 ```
- * Code Quiz [https://jibrildoqow.github.io/Coding-Quiz/]
+https://jibrildoqow.github.io/Coding-Quiz/
  ```
  ### About the Project
  ```
